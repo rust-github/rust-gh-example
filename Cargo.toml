@@ -1,0 +1,12 @@
+[package]
+name = "rust-gh-example"
+version = "0.1.0"
+authors = ["MarcoIeni <11428655+MarcoIeni@users.noreply.github.com>"]
+edition = "2018"
+repository = "https://github.com/rust-github/rust-gh-example"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

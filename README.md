@@ -2,7 +2,7 @@
 
 [![Crates.io](https://img.shields.io/crates/v/rust-gh-example.svg)](https://crates.io/crates/rust-gh-example)
 [![Docs.rs](https://docs.rs/rust-gh-example/badge.svg)](https://docs.rs/rust-gh-example)
-[![CI](https://github.com/rust-github/rust-gh-example/workflows/General/badge.svg)](https://github.com/rust-github/rust-gh-example/actions)
+[![CI](https://github.com/rust-github/rust-gh-example/workflows/Continuous%20Integration/badge.svg)](https://github.com/rust-github/rust-gh-example/actions)
 [![Coverage Status](https://coveralls.io/repos/github/rust-github/rust-gh-example/badge.svg?branch=master)](https://coveralls.io/github/rust-github/rust-gh-example?branch=master)
 
 ## Installation

@@ -1,18 +1,6 @@
 fn main() {
-    println!("The answer to the ultimate question is {}", answer());
-}
-
-/// Hello from Magrathea
-fn answer() -> u32 {
-    42
-}
-
-#[cfg(test)]
-mod tests {
-    use super::*;
-
-    #[test]
-    fn deep_thought_test() {
-        assert_eq!(answer(), 42);
-    }
+    println!(
+        "The answer to the ultimate question is {}",
+        rust_gh_example::answer()
+    );
 }

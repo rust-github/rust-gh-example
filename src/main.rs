@@ -1,5 +1,5 @@
 fn main() {
-    println!("The answer is to the ultimate question is {}", answer());
+    println!("The answer to the ultimate question is {}", answer());
 }
 
 fn answer() -> u32 {

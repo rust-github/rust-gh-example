@@ -2,6 +2,7 @@ fn main() {
     println!("The answer to the ultimate question is {}", answer());
 }
 
+/// Hello from Magrathea
 fn answer() -> u32 {
     42
 }

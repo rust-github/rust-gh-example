@@ -5,19 +5,12 @@ First off, thank you for considering contributing to rust-gh-example.
 If your contribution is not straightforward, please first discuss the change you
 wish to make by creating a new issue before making the change.
 
-One of the project goals is to be easy to understand so, expacially for github
-actions, try to keep things simple and to add comments whenever this is not
-possible.
-
 ## Reporting issues
 
-Issues have to be reported on our [issue tracker][issue-tracker]. Please:
-
-- Check that the issue has not already been reported.
-  - This can be achieved by searching keywords on the [issue tracker][issue-tracker].
-- Try to use a clear title, and describe your problem with complete sentences.
-
-[issue-tracker]: https://github.com/rust-github/rust-gh-example/issues
+Before reporting an issue on the
+[issue tracker](https://github.com/rust-github/rust-gh-example/issues),
+please check that it has not already been reported by searching for some related
+keywords.
 
 ## Pull requests
 

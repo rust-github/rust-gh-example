@@ -1,6 +1,6 @@
 [package]
 name = "rust-gh-example"
-version = "0.1.5"
+version = "0.1.6"
 authors = ["MarcoIeni <11428655+MarcoIeni@users.noreply.github.com>"]
 edition = "2018"
 description = "Example of Rust GitHub template"

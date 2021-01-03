@@ -6,7 +6,6 @@ edition = "2018"
 description = "Example of Rust GitHub template"
 repository = "https://github.com/rust-github/rust-gh-example"
 license = "MIT OR Apache-2.0"
-readme = "README.md"
 homepage = "https://rust-github.github.io/"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

@@ -19,7 +19,7 @@ Try to do one pull request per change.
 ### Updating the changelog
 
 Update the changes you have made in
-[CHANGELOG](https://github.com/rust-github/rust-gh-example/blob/master/CHANGELOG.md)
+[CHANGELOG](https://github.com/rust-github/rust-gh-example/blob/main/CHANGELOG.md)
 file under the **Unreleased** section.
 
 Add the changes of your pull request to one of the following subsections,
@@ -44,7 +44,7 @@ This is no different than other Rust projects.
 ```shell
 git clone https://github.com/rust-github/rust-gh-example
 cd rust-gh-example
-cargo build
+cargo test
 ```
 
 ### Useful Commands
@@ -58,13 +58,13 @@ cargo build
 - Run Clippy:
 
   ```shell
-  cargo clippy --all
+  cargo clippy --all-targets --all-features --workspace
   ```
 
 - Run all tests:
 
   ```shell
-  cargo test --all
+  cargo test --all-features --workspace
   ```
 
 - Check to see if there are code formatting issues

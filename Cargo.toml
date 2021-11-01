@@ -1,7 +1,7 @@
 [package]
 name = "rust-gh-example"
 version = "0.1.7"
-edition = "2018"
+edition = "2021"
 description = "Example of Rust GitHub template"
 repository = "https://github.com/rust-github/rust-gh-example"
 license = "MIT OR Apache-2.0"

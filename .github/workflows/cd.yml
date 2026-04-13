@@ -91,7 +91,7 @@ jobs:
             shasum -a 256 assets/$RELEASE_NAME.tar.gz > assets/$RELEASE_NAME.sha256
           fi
       - name: Releasing assets
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           files: assets/*
         env:
